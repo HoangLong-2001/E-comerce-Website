@@ -1,11 +1,4 @@
-<h1 align="center">
-  Website E-commerce
-</h1>
-<p align="center" style="font-size: 1.2rem;">Website bán hàng điện tử</p>
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" /></a>
- 
-</p>
+
 
 ## Giới thiệu
 
@@ -53,10 +46,6 @@
 * Tải và cài đặt [NodeJS](https://nodejs.org/en/).
 * Tải và cài đặt [Microsoft Visual Code](https://code.visualstudio.com/).
 
-* Clone repository Project-CNW về máy thông qua dòng lệnh sau:
-```bash
-> git clone https://github.com/DuongThanhTin/Project-CNW
-```
 * Khi đã clone về máy, tạo file .env trong thư mục chứa phần mềm. Trong file .env: SECRECT_KEY = 'PMCL_CNW'
 
 * Chạy command line trong thư mục vừa được clone về, thực thi dòng lệnh sau:
